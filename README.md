@@ -56,5 +56,11 @@ You can start the local Laravel server with:
 
 Access the application in your browser at `http://localhost:8000`.
 
+## Screenshot(s)
+![image](https://github.com/user-attachments/assets/c796113c-4a19-4127-aa6e-d63eaf7b0597)
+![image](https://github.com/user-attachments/assets/b49cf405-1539-417f-97b8-6ae67120e170)
+![image](https://github.com/user-attachments/assets/529d1646-0cf7-4324-9ec2-eea83520c503)
+
+
 ## License
 This project is licensed under the MIT License.
